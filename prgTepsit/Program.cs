@@ -17,6 +17,7 @@ namespace prgTepsit
 
             Console.WriteLine($"la dimensione dell'immagine è {valoreConverito}");
             Console.ReadLine();
+            //Codice per un'immagine
             
         }
     }
